@@ -10,6 +10,7 @@ function App() {
       setCounter(counter+1)
     }
   }
+  console.log('5' == 5)
 
   const subValue=() =>{
     if(counter>0){
